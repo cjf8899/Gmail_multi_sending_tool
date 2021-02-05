@@ -18,7 +18,7 @@ s.starttls()
 
 ########## 로그인 인증##########
 
-s.login('', '')
+s.login('user@gmail.com', 'token_password')
 
 ###############################
 
