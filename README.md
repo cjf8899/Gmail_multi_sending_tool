@@ -1,4 +1,4 @@
-# Gmail_sending_tool_python
+# Gmail_multi_sending_tool_python
 
 ## Getting Started
 1. Fill in the first line of the **mail.txt** file with a title and the rest of the file.
