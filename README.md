@@ -1,6 +1,6 @@
 # Gmail_multi_sending_tool_python
 ## Demo
-<p align="left"><img src="https://user-images.githubusercontent.com/53032349/107144130-5a7dff00-697c-11eb-8e54-74f311161721.png" width="70%" height="70%" title="70px" alt="memoryblock"></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/53032349/107144171-b6488800-697c-11eb-9639-8c6b470d0faa.png" width="70%" height="70%" title="70px" alt="memoryblock"></p>
 
 ## Getting Started
 1. Fill in the first line of the [**mail.txt**](https://github.com/cjf8899/Gmail_multi_sending_tool/blob/main/mail.txt) file with a title and the rest of the mail.
