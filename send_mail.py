@@ -21,7 +21,7 @@ s.starttls()
 
 ########## 로그인 인증##########
 
-s.login('nhchul99@gmail.com', 'dlurcpzwpiafzibo')
+s.login('', '')
 
 ###############################
 
