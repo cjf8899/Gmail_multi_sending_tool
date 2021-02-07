@@ -41,6 +41,7 @@ while True:
         count += 1
     else:
         message += str(line)
+        print(line)
 f.close()
 
 
